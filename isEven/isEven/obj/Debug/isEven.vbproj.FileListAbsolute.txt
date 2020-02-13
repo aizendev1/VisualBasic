@@ -1,0 +1,11 @@
+C:\Users\Shockwave\source\repos\isEven\isEven\bin\Debug\isEven.exe.config
+C:\Users\Shockwave\source\repos\isEven\isEven\bin\Debug\isEven.exe
+C:\Users\Shockwave\source\repos\isEven\isEven\bin\Debug\isEven.pdb
+C:\Users\Shockwave\source\repos\isEven\isEven\bin\Debug\isEven.xml
+C:\Users\Shockwave\source\repos\isEven\isEven\obj\Debug\isEven.vbprojAssemblyReference.cache
+C:\Users\Shockwave\source\repos\isEven\isEven\obj\Debug\isEven.Form1.resources
+C:\Users\Shockwave\source\repos\isEven\isEven\obj\Debug\isEven.Resources.resources
+C:\Users\Shockwave\source\repos\isEven\isEven\obj\Debug\isEven.vbproj.GenerateResource.cache
+C:\Users\Shockwave\source\repos\isEven\isEven\obj\Debug\isEven.exe
+C:\Users\Shockwave\source\repos\isEven\isEven\obj\Debug\isEven.xml
+C:\Users\Shockwave\source\repos\isEven\isEven\obj\Debug\isEven.pdb
