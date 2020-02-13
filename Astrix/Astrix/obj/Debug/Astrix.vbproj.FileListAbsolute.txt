@@ -1,0 +1,11 @@
+C:\Users\Shockwave\source\repos\Astrix\Astrix\bin\Debug\Astrix.exe.config
+C:\Users\Shockwave\source\repos\Astrix\Astrix\bin\Debug\Astrix.exe
+C:\Users\Shockwave\source\repos\Astrix\Astrix\bin\Debug\Astrix.pdb
+C:\Users\Shockwave\source\repos\Astrix\Astrix\bin\Debug\Astrix.xml
+C:\Users\Shockwave\source\repos\Astrix\Astrix\obj\Debug\Astrix.Form1.resources
+C:\Users\Shockwave\source\repos\Astrix\Astrix\obj\Debug\Astrix.Resources.resources
+C:\Users\Shockwave\source\repos\Astrix\Astrix\obj\Debug\Astrix.vbproj.GenerateResource.cache
+C:\Users\Shockwave\source\repos\Astrix\Astrix\obj\Debug\Astrix.exe
+C:\Users\Shockwave\source\repos\Astrix\Astrix\obj\Debug\Astrix.xml
+C:\Users\Shockwave\source\repos\Astrix\Astrix\obj\Debug\Astrix.pdb
+C:\Users\Shockwave\source\repos\Astrix\Astrix\obj\Debug\Astrix.vbprojAssemblyReference.cache
